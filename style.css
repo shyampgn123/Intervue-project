@@ -306,6 +306,7 @@ nav .black-bg{
   }
   .about{
     padding:3vw 0;
+    overflow:hidden;
   }
   .a-btns{
     flex-direction:column;
