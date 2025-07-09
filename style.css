@@ -324,7 +324,7 @@ nav .black-bg{
     font-size:3vw;
   }
   .ftrs{
-    padding:5vw 0;
+    padding-bottom:5vw;
   }
   .demo-intro{
     flex-direction:column;
@@ -356,5 +356,6 @@ nav .black-bg{
   }
   .explore .product-card a{
     font-size:3vw;
+    margin-top:3vw;
   }
 }
