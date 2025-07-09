@@ -313,7 +313,10 @@ nav .black-bg{
     width:100vw;
     overflow:hidden;
   }
-  .a-btns .ind, .ind-2 div{
+  .a-btns .ind{
+    transform:translate(-5vw, 0);
+  }
+    .a-btns .ind, .ind-2 div{
     min-width:100vw;
   }
   .a-btns .ind-1, .ind-2 div{
