@@ -16,6 +16,7 @@ nav{
   background:white;
   position:fixed;
   top:0;
+  z-index:2;
 }
 nav .logo img{
   width:10vw;
